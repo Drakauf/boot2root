@@ -40,7 +40,7 @@ Si on se connecte au forum avec les identifiants de l'user `lmezard`, on aura ma
 
 ![admin_forum](/assets/admin_forum.png)
 
-## Recuperer le filesysteme
+## Récupérer le filesysteme
 
 Monter le fichier iso avec `mount BornToSecHackMe-v1.1.iso iso/ -o loop` ou (sur mac) clique droit -> ouvrir avec -> DiskImageMounter.
 Récupérer le fichier du filesysteme compressé `casper/filesystem.squashfs`
